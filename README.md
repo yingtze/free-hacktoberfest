@@ -2,6 +2,6 @@
 
 - Fork this repository
 - Clone forked repository to local
-- add your nickname to program
+- add your Hello World to program
 - push to your forked repository
 - Create Pull Request
